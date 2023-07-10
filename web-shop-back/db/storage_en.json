@@ -1,0 +1,44 @@
+[
+    {
+        "imgUrl": "/static/f-35.jpg",
+        "label": "F-35 Lightning II",
+        "description": "The Lockheed Martin F-35 Lightning II is an American family of single-seat, single-engine, all-weather stealth multirole combat aircraft",
+        "price": "$75.0M"
+    },
+    {
+        "imgUrl": "/static/j-20.jpg",
+        "label": "Chengdu J-20 (Mighty Dragon)",
+        "description": "The J-20 is designed as an air superiority fighter with precision strike capability.",
+        "price": "$110.0M"
+    },
+    {
+        "imgUrl": "/static/su-57.jpg",
+        "label": "Sukhoi Su-57 (Felon)",
+        "description": "A multirole fighter jet capable of aerial combat as well as ground and maritime strike.",
+        "price": "$35.0M"
+    },
+    {
+        "imgUrl": "/static/leclerc.jpg",
+        "label": "Leclerc",
+        "description": "The Leclerc is a third-generation tank that is equipped with a NATO-standard CN120-26 120mm smoothbore gun, a coaxial 12.7mm machine gun, and a roof-mounted 7.62mm machine gun.",
+        "price": "$16.0M"
+    },
+    {
+        "imgUrl": "/static/challenger-2.jpg",
+        "label": "FV4034 Challenger 2",
+        "description": "The Challenger 2 is a third generation British main battle tank. It holds a 120mm L30 CHARM cannon, and supplementary weapons include a C-axial 7.62mm chain cannon and a turret-mounted 7.62mm machine gun.",
+        "price": "$4.9M"
+    },
+    {
+        "imgUrl": "/static/stinger.jpg",
+        "label": "FIM-92A Stinger",
+        "description": "The FIM-92A Stinger is an American man-portable air-defense system (MANPADS) that operates as an infrared homing surface-to-air missile (SAM).",
+        "price": "$38.0K"
+    },
+    {
+        "imgUrl": "/static/javelin.jpg",
+        "label": "FGM-148 Javelin",
+        "description": "FGM-148 Javelin  is an American-made portable man-portable anti-tank system. It has fire-and-forget design with HEAT warhead missiles.",
+        "price": "$216.7K"
+    }
+]

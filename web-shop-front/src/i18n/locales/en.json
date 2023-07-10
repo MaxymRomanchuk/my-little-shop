@@ -1,0 +1,39 @@
+{
+    "title": "My test page",
+    "header": {
+        "home": "Home",
+        "about": "About",
+        "products": "Products"
+    },
+    "products": {
+        "title": "Take a look at our products",
+        "description": "Our shop has plenty of toys. Different sizes and forms to make every revenge delightful and every enemies night - unbeleivable.",
+        "buyBtn": "Buy now",
+        "compareBtn": "Compare"
+    },
+    "about": {
+        "title": "We develop the future of heavy weaponry retail market.",
+        "description": "Our mission is to develop availability and fair prices at the militech market worldwide.",
+        "firstRow": {
+            "title": "This idea will lead future generations to success.",
+            "subtitle": "- Winston Churchil, British statesman.",
+            "description": "underidoderidoderiododeriodoo..."
+        },
+        "secondRow": {
+            "title": "This is a revolution in possibilities world",
+            "subtitle": "- our CTO, Poltava arsonist",
+            "description": "Well, I like how it burns, how people hustle and bustle, the firecrackers come. Well, people are in shock, their eyes are popping out. Well, it's funny to me: he looks at how they run, fuss, ask questions, extinguish it with his hands, and it burns even more fiercely. And I stand below and laugh."
+        },
+        "thirdRow": {
+            "title": "My trust in a conscious society is unbreakable.",
+            "subtitle": "- our CEO, Chervonograd Student",
+            "description": "Since my childhood I found a fiercing spark of manners and politeness in peoples eyes. That is why I am willing to make their possibilities unlimited."
+        }
+    },
+    "home": {
+        "title": "First official all-tier weapon retail marketplace.",
+        "subtitle": "Do not wait the government to make you life safer tomorrow, take everything in your hands now!",
+        "btn": "To the products",
+        "footer": "Built with Vue 3 by Max `"
+    }
+}
